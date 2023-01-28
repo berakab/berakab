@@ -1,5 +1,5 @@
 <h1 align="center">Hello👋,People of the Internet I'm Beraka</h1>
-<h3 align="center">Audio Visual technician passionate about DevOps and Cloud Technologies</h3>
+<h3 align="center">Aspiring Platform Engineer passionate about DevOps and Cloud Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berakab&label=Profile%20views&color=0e75b6&style=flat" alt="berakab" /> </p>
 
