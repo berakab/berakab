@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **projects in React, Python, Amazon EKS**
 
-- 🌱 I’m currently learning **Flask and python scripting, SQL**
+- 🌱 I’m currently learning **python scripting, SQL, Github Actions, and Docker**
 
 - 👯 I’m looking to collaborate on **anything related to platform engineering**
 
